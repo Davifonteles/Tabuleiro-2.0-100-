@@ -1,0 +1,9 @@
+sonar.projectKey=Davifonteles_Tabuleiro
+sonar.organization=davifonteles
+sonar.host.url=https://sonarcloud.io
+sonar.token=daa17a319e6f78178123526acf9d623d4b80a058
+
+sonar.projectName=Tabuleiro
+sonar.projectVersion=1.0
+sonar.sources=Jogodetabuleiro
+sonar.java.binaries=bin
